@@ -2,6 +2,8 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <!-- Main Pages -->
+
     <url>
         <loc>https://brh0o0m1112.github.io/techno/</loc>
     </url>
@@ -21,6 +23,9 @@
     <url>
         <loc>https://brh0o0m1112.github.io/techno/terms.html</loc>
     </url>
+
+
+    <!-- Categories -->
 
     <url>
         <loc>https://brh0o0m1112.github.io/techno/ai.html</loc>
@@ -44,6 +49,160 @@
 
     <url>
         <loc>https://brh0o0m1112.github.io/techno/troubleshooting.html</loc>
+    </url>
+
+
+    <!-- AI -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=ai-everyday-tasks</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=ai-practical-uses</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=ai-assistants-beginners</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=ai-research-guide</loc>
+    </url>
+
+
+    <!-- Software -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=windows-performance</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=pc-resources</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=uninstall-programs</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=free-windows-space</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=disable-startup-apps</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=find-software-version</loc>
+    </url>
+
+
+    <!-- Mobile -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=phone-storage</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=phone-battery</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=speed-up-android</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=iphone-storage</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=stop-background-apps</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=smartphone-settings</loc>
+    </url>
+
+
+    <!-- Internet -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=internet-connection</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=faster-browser</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=wifi-disconnecting</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=chrome-settings</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=slow-internet</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=internet-tips</loc>
+    </url>
+
+
+    <!-- How-To -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=windows-screenshot</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=convert-file-pdf</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=professional-email-signature</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=compress-files</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=backup-important-files</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=strong-online-password</loc>
+    </url>
+
+
+    <!-- Troubleshooting -->
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=windows-running-slowly</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=fix-wifi-disconnecting</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=slow-phone</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=app-keeps-crashing</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=low-storage-device</loc>
+    </url>
+
+    <url>
+        <loc>https://brh0o0m1112.github.io/techno/article.html?id=browser-problems</loc>
     </url>
 
 </urlset>
