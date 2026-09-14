@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brh0o0m1112.github.io/techno/sitemap.xml
+Sitemap: https://tekora.blog/sitemap.xml
