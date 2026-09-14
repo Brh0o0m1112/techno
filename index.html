@@ -5,11 +5,12 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description" content="Practical technology guides, tutorials, troubleshooting tips, AI tools, software guides and useful tech solutions.">
-
+    <meta name="description" 
+        content="ByteGuide provides practical technology guides, AI tips, software solutions, mobile advice, internet help, and troubleshooting guides."
+    >
     <meta name="robots" content="index, follow">
 
-    <title>ByteGuide - Practical Technology Guides & Tips</title>
+    <title>ByteGuide - Practical Technology Guides & Solutions</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
@@ -41,6 +42,21 @@
             <button class="search-button" aria-label="Search">
                 🔍
             </button>
+
+            <div class="search-box">
+
+                <input
+                    type="search"
+                    id="search-input"
+                    placeholder="Search articles..."
+                    aria-label="Search articles"
+                >
+
+                <div id="search-results"
+                    class="search-results">
+                </div>
+
+            </div>
 
         </div>
 
@@ -548,6 +564,7 @@
     </footer>
 
 
+    <script src="articles.js"></script>
     <script src="script.js"></script>
 
 </body>

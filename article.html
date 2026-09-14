@@ -7,12 +7,36 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description"
-          content="Practical technology guides and solutions from ByteGuide.">
+    <meta
+        name="description"
+        id="meta-description"
+        content="Practical technology guides and solutions from ByteGuide."
+    >
+
+    <meta name="robots" content="index, follow">
 
     <title>Article - ByteGuide</title>
 
+    <link rel="canonical" id="canonical-url">
+
     <link rel="stylesheet" href="style.css">
+
+    <script type="application/ld+json" id="article-schema">
+        {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Article - ByteGuide",
+            "description": "Practical technology guides and solutions from ByteGuide.",
+            "author": {
+                "@type": "Organization",
+                "name": "ByteGuide"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "ByteGuide"
+            }
+        }
+    </script>
 
 </head>
 
@@ -98,6 +122,11 @@
                 </p>
 
 
+                <p id="article-meta"
+                    class="article-meta">
+                </p>
+
+
                 <p id="article-description"
                    class="article-description">
                 </p>
@@ -107,12 +136,27 @@
                      class="article-content">
                 </div>
 
-
             </div>
 
         </article>
 
     </main>
+
+    <section class="related-articles">
+
+        <div class="container">
+
+            <h2>
+                Related Articles
+            </h2>
+
+            <div id="related-articles-grid"
+                class="articles-grid">
+            </div>
+
+        </div>
+
+    </section>
 
 
 
