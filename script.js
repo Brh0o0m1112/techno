@@ -132,7 +132,7 @@ if (articleId && articles[articleId]) {
 
     // Change browser page title
 
-    document.title = article.title + " - ByteGuide";
+    document.title = article.title + " - TEKORA";
 
 
     // Change meta description
@@ -176,7 +176,7 @@ if (articleId && articles[articleId]) {
     if (articleMeta) {
 
         const author =
-            article.author || "ByteGuide";
+            article.author || "TEKORA";
 
         const readingTime =
             article.readingTime || "5 min read";
@@ -238,12 +238,12 @@ if (articleId && articles[articleId]) {
 
             "author": {
                 "@type": "Organization",
-                "name": "ByteGuide"
+                "name": "TEKORA"
             },
 
             "publisher": {
                 "@type": "Organization",
-                "name": "ByteGuide"
+                "name": "TEKORA"
             },
 
             "mainEntityOfPage": {
