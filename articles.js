@@ -958,101 +958,1130 @@ const articles = {
     },
 
 
+    
     "ai-assistants-beginners": {
 
         title: "Beginner's Guide to Using AI Assistants",
 
         category: "AI & Tools",
 
-        date: "September 14, 2026",
+        date: "September 24, 2026",
 
         description:
-            "Learn the basics of AI assistants and how to get better results from clear instructions and useful prompts.",
+            "A beginner-friendly guide to using AI assistants, choosing the right tasks, writing effective prompts, improving responses, and checking AI-generated information.",
 
         content: `
 
             <p>
-                AI assistants can answer questions, explain topics and help
-                with many everyday tasks. Getting useful results often starts
-                with giving clear instructions.
+                AI assistants are tools that let you interact with artificial
+                intelligence through ordinary language. You can ask questions,
+                request explanations, provide text for review, and work through
+                problems using a conversation.
             </p>
 
-            <h2>Be Clear About Your Goal</h2>
-
             <p>
-                Explain what you want to achieve instead of using only a few
-                general words. More context can help produce a more useful answer.
+                For beginners, the challenge is not usually learning complicated
+                technology. It is understanding how to explain a task, provide
+                the right information, and decide whether the response is useful.
             </p>
 
-            <h2>Break Large Tasks Into Smaller Steps</h2>
-
             <p>
-                Complex tasks can often be easier to manage when you ask for
-                help with one step at a time.
+                This guide walks through the process of using an AI assistant,
+                from starting your first conversation to improving an answer
+                and checking the final result.
             </p>
 
-            <h2>Review the Results</h2>
+            <h2>1. Understand What an AI Assistant Can Do</h2>
 
             <p>
-                AI-generated information should be reviewed before making
-                important decisions or sharing the result with others.
+                An AI assistant can help generate and organize text, explain
+                unfamiliar subjects, suggest ideas, summarize information,
+                and assist with certain technical tasks.
+            </p>
+
+            <p>
+                For example, you might use an assistant to:
+            </p>
+
+            <ul>
+                <li>Explain a computer setting you do not understand.</li>
+                <li>Turn rough notes into a professional email draft.</li>
+                <li>Suggest a structure for a personal project.</li>
+                <li>Explain an Excel formula in beginner-friendly language.</li>
+                <li>Create practice questions for a subject you are studying.</li>
+            </ul>
+
+            <p>
+                The assistant does not automatically know your situation,
+                preferences, or intended outcome. You need to provide relevant
+                details for the task.
+            </p>
+
+            <p>
+                It is also important to understand that an AI assistant is
+                not the same as an official information source. It may produce
+                incorrect information, misunderstand a request, or present
+                an uncertain answer with confidence.
+            </p>
+
+            <h2>2. Start With One Specific Task</h2>
+
+            <p>
+                When using an AI assistant for the first time, choose a small
+                task with a clear result. This makes it easier to evaluate
+                the response and understand how the tool works.
+            </p>
+
+            <p>
+                Instead of beginning with a broad request such as
+                "Help me with technology," describe a specific problem.
+            </p>
+
+            <h3>Example: Understand a computer setting</h3>
+
+            <blockquote>
+                I am a beginner using Windows 11. Explain what the Startup
+                Apps section does in Task Manager. Use simple language,
+                explain why someone might review it, and give me the basic
+                steps to open it. Do not recommend disabling security software.
+            </blockquote>
+
+            <p>
+                This request identifies the operating system, the user's
+                experience level, the subject, and the type of explanation
+                needed.
+            </p>
+
+            <p>
+                The assistant can now focus on a particular question rather
+                than producing a broad overview of computer performance.
+            </p>
+
+            <h2>3. Give the Assistant Enough Context</h2>
+
+            <p>
+                Context is the background information that helps an AI
+                assistant understand what you are asking. Without it,
+                the assistant may make assumptions or provide an answer
+                that does not fit your situation.
+            </p>
+
+            <p>
+                Useful context may include:
+            </p>
+
+            <ul>
+                <li>Your experience level, such as beginner or advanced.</li>
+                <li>The device, application, or software version you use.</li>
+                <li>The result you are trying to achieve.</li>
+                <li>What you have already tried.</li>
+                <li>Any restrictions that the solution must follow.</li>
+            </ul>
+
+            <h3>Example: Asking for help with Excel</h3>
+
+            <p>
+                A request such as "My Excel formula is not working" does
+                not provide enough information to identify the problem.
+            </p>
+
+            <p>
+                A more useful request would be:
+            </p>
+
+            <blockquote>
+                I am using Excel to calculate total sales. The amounts
+                are in cells B2 through B50. I entered a SUM formula,
+                but the result is zero. Explain the most likely basic
+                causes and show me how to check whether the cells contain
+                numbers stored as text. Do not assume that you can see
+                my spreadsheet.
+            </blockquote>
+
+            <p>
+                This gives the assistant a clearer problem to investigate
+                and helps avoid irrelevant instructions.
+            </p>
+
+            <p>
+                When an answer still does not fit your situation, provide
+                additional non-sensitive details instead of repeating
+                the same broad question.
+            </p>
+
+            <h2>4. Specify the Format of the Answer</h2>
+
+            <p>
+                Even when an AI assistant understands the task, the format
+                of its response may not be suitable for how you intend
+                to use it.
+            </p>
+
+            <p>
+                You can request a particular structure, length, or style.
+                For example, you can ask for a numbered list, a short
+                explanation, a comparison table, or instructions that
+                assume no previous experience.
+            </p>
+
+            <h3>Examples of useful format instructions</h3>
+
+            <ul>
+                <li>
+                    Explain the process in five numbered steps.
+                </li>
+                <li>
+                    Use simple English and explain technical terms.
+                </li>
+                <li>
+                    Put the advantages and limitations in separate sections.
+                </li>
+                <li>
+                    Give me one step at a time and wait for my result.
+                </li>
+                <li>
+                    Keep the response under 200 words.
+                </li>
+            </ul>
+
+            <p>
+                These instructions help shape the response, although
+                the assistant may not always follow every restriction
+                perfectly. Review the result and ask for a correction
+                if needed.
+            </p>
+
+            <h2>5. Break Complicated Tasks Into Smaller Requests</h2>
+
+            <p>
+                A complicated request may involve several different
+                activities. Asking for everything at once can produce
+                a long answer that is difficult to follow or verify.
+            </p>
+
+            <p>
+                Breaking the task into smaller parts makes it easier
+                to review each result and correct misunderstandings
+                before moving forward.
+            </p>
+
+            <h3>Example: Building a simple website</h3>
+
+            <p>
+                Suppose you want to create a basic website but have
+                little experience with HTML and CSS.
+            </p>
+
+            <p>
+                Instead of asking for a complete website, use a sequence
+                of focused requests:
+            </p>
+
+            <ol>
+                <li>
+                    Ask for a simple explanation of the HTML page structure.
+                </li>
+                <li>
+                    Create a basic page with a heading and paragraph.
+                </li>
+                <li>
+                    Ask how to connect a CSS file to the HTML page.
+                </li>
+                <li>
+                    Add styling and test the page in a browser.
+                </li>
+                <li>
+                    Describe any errors and ask for help correcting them.
+                </li>
+            </ol>
+
+            <p>
+                After each step, check that the result works before
+                continuing. This helps you understand the process
+                instead of receiving a large block of code that you
+                may not know how to troubleshoot.
+            </p>
+
+            <h2>6. Improve an Answer Through Follow-Up Questions</h2>
+
+            <p>
+                Your first request does not need to produce a perfect
+                response. One useful feature of conversational AI
+                is the ability to refine an answer through follow-up
+                instructions.
+            </p>
+
+            <p>
+                If the response is too complicated, explain which
+                part is confusing. If it is too general, provide
+                more context. If you need a different format, request
+                that format directly.
+            </p>
+
+            <h3>Example: Refining a technical explanation</h3>
+
+            <p>
+                Imagine the assistant gives you a technical explanation
+                containing unfamiliar terms.
+            </p>
+
+            <p>
+                You could follow up with:
+            </p>
+
+            <blockquote>
+                I did not understand the explanation of virtual memory.
+                Explain it again using a simple everyday analogy.
+                Define any technical terms and give one example
+                of when a computer uses it.
+            </blockquote>
+
+            <p>
+                Or, if you need to act on the information:
+            </p>
+
+            <blockquote>
+                Turn the explanation into a short checklist of actions
+                I can perform. Separate safe basic checks from changes
+                that require more technical knowledge.
+            </blockquote>
+
+            <p>
+                Be specific about what needs to change. Asking for
+                "a better answer" gives the assistant less direction
+                than identifying the confusing section or missing detail.
+            </p>
+
+            <h2>7. Ask the Assistant to Explain Its Assumptions</h2>
+
+            <p>
+                Sometimes an AI response is based on information
+                that you did not provide. The assistant may assume
+                a particular software version, operating system,
+                budget, or goal.
+            </p>
+
+            <p>
+                When those assumptions are wrong, the answer may
+                be unsuitable even if the general explanation
+                sounds reasonable.
+            </p>
+
+            <p>
+                You can ask:
+            </p>
+
+            <blockquote>
+                Before giving me a solution, list any assumptions
+                you are making about my situation. If an important
+                detail is missing, ask me for it instead of guessing.
+            </blockquote>
+
+            <p>
+                This is particularly useful for technical instructions,
+                product comparisons, and tasks where the answer
+                depends on specific circumstances.
+            </p>
+
+            <p>
+                However, a list of assumptions is not proof that
+                the answer is correct. Check important details
+                independently.
+            </p>
+
+            <h2>8. Check the Answer Before Using It</h2>
+
+            <p>
+                AI-generated content should be reviewed before
+                you rely on it, publish it, or share it with
+                someone else.
+            </p>
+
+            <p>
+                The type of review depends on the task.
+            </p>
+
+            <h3>For factual information</h3>
+
+            <p>
+                Check important claims against reliable sources.
+                For current information, such as software pricing,
+                product availability, or official requirements,
+                consult the relevant official website.
+            </p>
+
+            <h3>For calculations</h3>
+
+            <p>
+                Test formulas with known sample values and compare
+                the result with an independent calculation.
+                Check that the correct cells and units were used.
+            </p>
+
+            <h3>For writing</h3>
+
+            <p>
+                Review names, dates, figures, tone, and meaning.
+                Make sure the response does not include claims
+                or promises that you cannot support.
+            </p>
+
+            <h3>For technical instructions</h3>
+
+            <p>
+                Make sure the instructions match your device
+                and software version. Back up important files
+                before making significant system changes,
+                and do not run commands you do not understand.
+            </p>
+
+            <h2>9. Protect Your Information</h2>
+
+            <p>
+                An AI assistant may process the text or files
+                you submit according to the provider's service
+                terms, privacy policy, and settings.
+            </p>
+
+            <p>
+                Before sharing information, consider whether
+                the task actually requires the details you
+                intend to provide.
+            </p>
+
+            <p>
+                Avoid entering passwords, authentication codes,
+                bank card details, confidential business records,
+                or private customer information into an AI
+                assistant unless you have appropriate
+                authorization and understand the applicable
+                data protections.
+            </p>
+
+            <p>
+                If you need help with a document, remove
+                unnecessary identifying details or replace
+                them with fictional examples.
+            </p>
+
+            <p>
+                Check the provider's privacy policy and
+                available data controls before uploading
+                sensitive files or using the service for
+                workplace information.
+            </p>
+
+            <h2>10. Use a Simple Checklist for Every AI Task</h2>
+
+            <p>
+                Once you become familiar with AI assistants,
+                you can use the following checklist to approach
+                different tasks consistently.
+            </p>
+
+            <ol>
+                <li>
+                    <strong>Define the goal:</strong>
+                    Decide exactly what you want to accomplish.
+                </li>
+                <li>
+                    <strong>Provide context:</strong>
+                    Include relevant details and restrictions.
+                </li>
+                <li>
+                    <strong>Choose the format:</strong>
+                    Specify how you want the response organized.
+                </li>
+                <li>
+                    <strong>Review the result:</strong>
+                    Check whether it answers your actual question.
+                </li>
+                <li>
+                    <strong>Verify important details:</strong>
+                    Confirm facts, calculations, and instructions.
+                </li>
+                <li>
+                    <strong>Make the final decision:</strong>
+                    Use your own judgment before acting on the response.
+                </li>
+            </ol>
+
+            <p>
+                You can save this checklist and use it whenever
+                you start a new conversation or work on a task
+                that requires several steps.
+            </p>
+
+            <h2>Frequently Asked Questions</h2>
+
+            <h3>Do I need to know how AI works to use an AI assistant?</h3>
+
+            <p>
+                No. You can begin with ordinary written questions
+                and simple tasks. Understanding the tool's
+                limitations and checking its answers is more
+                important than knowing the technical details
+                behind the system.
+            </p>
+
+            <h3>Why do AI assistants sometimes give different answers?</h3>
+
+            <p>
+                Responses can vary depending on how a question
+                is phrased, the context provided, the model
+                being used, and other factors. Different
+                answers do not necessarily mean that either
+                one is correct. Verify important information
+                using reliable sources.
+            </p>
+
+            <h3>Can I ask an AI assistant to explain something again?</h3>
+
+            <p>
+                Yes. You can ask for a simpler explanation,
+                another example, a different format, or
+                a step-by-step breakdown. Identifying
+                exactly what you did not understand usually
+                makes the follow-up more useful.
+            </p>
+
+            <h3>Should I trust an AI assistant with important decisions?</h3>
+
+            <p>
+                AI can help organize information and identify
+                questions to consider, but it should not
+                replace appropriate professional advice
+                or authoritative sources for important
+                medical, legal, financial, or safety-related
+                decisions.
             </p>
 
             <h2>Final Thoughts</h2>
 
             <p>
-                The best way to learn how to use AI assistants is to experiment
-                with practical tasks that matter to you.
+                Learning to use an AI assistant effectively
+                is mainly about communicating a clear goal,
+                providing relevant context, and reviewing
+                the response carefully.
+            </p>
+
+            <p>
+                Start with a task that matters to you.
+                Ask focused questions, refine the answer
+                when necessary, and verify important
+                information before using it.
+            </p>
+
+            <p>
+                With practice, you can develop a repeatable
+                approach that makes AI assistance more
+                useful while keeping your own judgment
+                and understanding at the center of the work.
             </p>
 
         `
     },
 
 
+    
     "ai-research-guide": {
 
         title: "Simple Ways to Use AI for Research",
 
         category: "AI & Tools",
 
-        date: "September 14, 2026",
+        date: "September 24, 2026",
 
         description:
-            "Learn how AI can help organize information, explore ideas and make the research process easier.",
+            "Learn how to use AI for research by narrowing questions, finding reliable sources, organizing evidence, checking citations, and avoiding common research mistakes.",
 
         content: `
 
             <p>
-                AI can be useful during the early stages of research when you
-                need help organizing questions and understanding unfamiliar topics.
+                Research often begins with a question, but finding a reliable
+                answer can involve reading multiple articles, comparing
+                different explanations, and checking whether the information
+                is accurate and up to date.
             </p>
 
-            <h2>Start With a Clear Question</h2>
-
             <p>
-                Before using any research tool, define the question you are
-                trying to answer.
+                AI tools can assist with parts of this process. They can help
+                turn a broad topic into specific questions, organize notes,
+                explain unfamiliar terminology, and identify information
+                that needs further investigation.
             </p>
 
-            <h2>Use AI to Organize Ideas</h2>
-
             <p>
-                AI can help group related ideas, create outlines and suggest
-                areas that may require further investigation.
+                However, an AI-generated response is not the same as verified
+                research. An assistant may misunderstand a source, provide
+                outdated information, or produce a citation that does not
+                support the claim being made.
             </p>
 
-            <h2>Check Important Information</h2>
+            <p>
+                This guide explains a practical research workflow for
+                beginners, including how to find sources, evaluate evidence,
+                and use AI without treating its answers as unquestionable facts.
+            </p>
+
+            <h2>1. Turn a Broad Topic Into a Research Question</h2>
 
             <p>
-                Important facts should always be checked using reliable and
-                appropriate sources.
+                A broad topic can produce thousands of possible search
+                results. Before starting, define exactly what you want
+                to find out.
+            </p>
+
+            <p>
+                For example, the topic "computer performance" could
+                include hardware, software, storage, cooling, and
+                operating system settings.
+            </p>
+
+            <p>
+                A more focused question would be:
+            </p>
+
+            <blockquote>
+                What are the common software-related reasons a Windows
+                computer may take a long time to start, and which basic
+                checks can a beginner perform safely?
+            </blockquote>
+
+            <p>
+                A focused question gives you a clearer direction and
+                makes it easier to decide whether a source is relevant.
+            </p>
+
+            <h3>Use AI to identify smaller questions</h3>
+
+            <p>
+                You can ask an AI assistant to divide a broad subject
+                into smaller research questions.
+            </p>
+
+            <blockquote>
+                I want to research why Windows computers sometimes start
+                slowly. Divide this topic into five specific research
+                questions. For each question, explain what information
+                I should look for and suggest the type of source that
+                could help answer it. Do not provide unsupported statistics.
+            </blockquote>
+
+            <p>
+                The response can help you create a research outline.
+                Review the suggested questions and remove anything
+                unrelated to your original goal.
+            </p>
+
+            <h2>2. Use AI to Create a Research Plan</h2>
+
+            <p>
+                Once you have a clear question, organize the research
+                into manageable tasks. A simple plan helps prevent
+                you from collecting large amounts of information
+                that do not answer the question.
+            </p>
+
+            <p>
+                A beginner-friendly research plan can include:
+            </p>
+
+            <ol>
+                <li>
+                    Define the main question and the scope of the research.
+                </li>
+                <li>
+                    Identify the key terms and concepts you need to understand.
+                </li>
+                <li>
+                    Find reliable sources that address the question.
+                </li>
+                <li>
+                    Record relevant claims and where they came from.
+                </li>
+                <li>
+                    Compare the evidence and identify unanswered questions.
+                </li>
+                <li>
+                    Write a summary based on the evidence you have checked.
+                </li>
+            </ol>
+
+            <p>
+                You can ask an AI assistant to turn your topic into
+                a checklist, but the plan should remain flexible.
+                New evidence may reveal that a different question
+                needs to be investigated.
+            </p>
+
+            <h2>3. Find Reliable Research Sources</h2>
+
+            <p>
+                AI can suggest search terms and explain what kinds
+                of sources may be relevant. However, you should
+                locate and inspect the original sources rather
+                than relying only on the assistant's summary.
+            </p>
+
+            <p>
+                The best source depends on the subject and the
+                type of claim you need to verify.
+            </p>
+
+            <h3>Official documentation</h3>
+
+            <p>
+                Official documentation is useful when researching
+                software features, product requirements, operating
+                system settings, and technical procedures.
+            </p>
+
+            <p>
+                For example, when researching a Windows setting,
+                the relevant Microsoft documentation may explain
+                how the feature works and which versions support it.
+            </p>
+
+            <h3>Research papers and academic publications</h3>
+
+            <p>
+                Academic papers can be useful when investigating
+                scientific questions, research methods, or
+                experimental findings.
+            </p>
+
+            <p>
+                Check the publication date, research method,
+                study population, and limitations. A single
+                study may not represent all situations.
+            </p>
+
+            <h3>Government and institutional sources</h3>
+
+            <p>
+                Official government websites and recognized
+                institutions can provide information about
+                regulations, public services, and official
+                requirements.
+            </p>
+
+            <p>
+                Confirm that the source applies to the country,
+                population, and time period relevant to your
+                research.
+            </p>
+
+            <h3>Independent reporting and specialist publications</h3>
+
+            <p>
+                Established publications can provide context,
+                interviews, and explanations of developments.
+                For important claims, compare their reporting
+                with primary documents or other reliable
+                evidence whenever possible.
+            </p>
+
+            <h2>4. Use AI to Generate Better Search Terms</h2>
+
+            <p>
+                Sometimes the main difficulty is knowing which
+                words to enter into a search engine. AI can
+                suggest alternative terminology, related
+                concepts, and more specific search phrases.
+            </p>
+
+            <p>
+                Suppose you are researching smartphone battery
+                life. You could ask:
+            </p>
+
+            <blockquote>
+                I am researching why smartphone batteries lose
+                charge quickly. Suggest eight search queries
+                covering battery health, background activity,
+                display settings, and charging behavior.
+                Separate general troubleshooting queries from
+                queries that should lead to official manufacturer
+                documentation.
+            </blockquote>
+
+            <p>
+                You can then use these queries in a search engine
+                or the official support website for your device.
+            </p>
+
+            <p>
+                Treat suggested search terms as starting points.
+                The existence of a search phrase does not prove
+                that a particular explanation or claim is correct.
+            </p>
+
+            <h2>5. Check Sources Instead of Trusting AI Summaries</h2>
+
+            <p>
+                One of the most important research habits is
+                checking whether a source actually supports
+                the statement being made.
+            </p>
+
+            <p>
+                An AI assistant may summarize a document
+                incorrectly or combine information from
+                different sources. It may also generate
+                a plausible-looking reference that does
+                not exist.
+            </p>
+
+            <h3>A practical source-checking process</h3>
+
+            <ol>
+                <li>
+                    Find the original article, report, paper,
+                    or official document.
+                </li>
+                <li>
+                    Confirm the title, author or organization,
+                    publication date, and source address.
+                </li>
+                <li>
+                    Read the relevant section rather than
+                    relying only on a short search-result summary.
+                </li>
+                <li>
+                    Check whether the source directly supports
+                    the specific claim you want to use.
+                </li>
+                <li>
+                    Look for qualifications, limitations,
+                    and conditions that may change the meaning.
+                </li>
+            </ol>
+
+            <p>
+                If you cannot locate a source or verify a
+                quotation, do not present it as an established
+                fact.
+            </p>
+
+            <h2>6. Organize Research Notes and Evidence</h2>
+
+            <p>
+                After finding several sources, it can become
+                difficult to remember which source supports
+                each point. Keeping structured notes makes
+                it easier to compare information and prepare
+                a reliable summary.
+            </p>
+
+            <p>
+                A simple spreadsheet can contain the following
+                columns:
+            </p>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Column</th>
+                        <th>What to record</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Research question</td>
+                        <td>The question the information helps answer.</td>
+                    </tr>
+                    <tr>
+                        <td>Source</td>
+                        <td>The title and organization or author.</td>
+                    </tr>
+                    <tr>
+                        <td>Publication date</td>
+                        <td>When the information was published or updated.</td>
+                    </tr>
+                    <tr>
+                        <td>Main finding</td>
+                        <td>A short summary of the relevant evidence.</td>
+                    </tr>
+                    <tr>
+                        <td>Source URL</td>
+                        <td>The direct address of the original source.</td>
+                    </tr>
+                    <tr>
+                        <td>Limitations</td>
+                        <td>Important qualifications or unanswered questions.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p>
+                You can ask an AI assistant to organize notes
+                that you provide into this structure.
+                Make sure each entry remains connected
+                to the correct source.
+            </p>
+
+            <h3>Example prompt for organizing notes</h3>
+
+            <blockquote>
+                Organize the research notes below into a table
+                with columns for the main claim, supporting
+                source, publication date, and limitations.
+                Do not add facts that are not in my notes.
+                If a source or date is missing, mark it as
+                not provided. Keep conflicting findings
+                separate rather than combining them.
+            </blockquote>
+
+            <p>
+                This approach can make a collection of notes
+                easier to review while preserving uncertainty
+                and differences between sources.
+            </p>
+
+            <h2>7. Compare Conflicting Information</h2>
+
+            <p>
+                Different sources may reach different conclusions.
+                This does not automatically mean that one source
+                is incorrect. They may use different methods,
+                examine different populations, or address
+                different time periods.
+            </p>
+
+            <p>
+                When you encounter conflicting information,
+                consider:
+            </p>
+
+            <ul>
+                <li>Whether the sources are discussing the same question.</li>
+                <li>Whether the publication dates differ significantly.</li>
+                <li>Whether the sources use different definitions or methods.</li>
+                <li>Whether one source provides direct evidence for its claim.</li>
+                <li>Whether important limitations are disclosed.</li>
+            </ul>
+
+            <p>
+                AI can help create a neutral comparison of
+                excerpts you provide.
+            </p>
+
+            <blockquote>
+                Compare the two excerpts below. Identify
+                the claims they agree on, the points where
+                they differ, and the evidence each excerpt
+                provides. Do not decide which source is
+                correct unless the supplied evidence supports
+                that conclusion. Identify any information
+                that would need further verification.
+            </blockquote>
+
+            <p>
+                Read the original sources before using
+                the comparison in your own research.
+                The assistant's analysis is not an
+                independent verification of either source.
+            </p>
+
+            <h2>8. Write a Research Summary With Evidence</h2>
+
+            <p>
+                Once you have gathered and checked the
+                relevant information, you can use AI
+                to help organize your own notes into
+                a clear summary.
+            </p>
+
+            <p>
+                A useful research summary should answer
+                the original question, explain the
+                important findings, and distinguish
+                verified information from uncertainty.
+            </p>
+
+            <p>
+                It should also identify limitations
+                and include references that readers
+                can use to check the information.
+            </p>
+
+            <h3>Example prompt for a research summary</h3>
+
+            <blockquote>
+                Using only the research notes and sources
+                I provide, create a beginner-friendly
+                summary of the main findings. Connect
+                each factual claim to the source that
+                supports it. Separate established findings
+                from uncertain points and list the
+                questions that remain unanswered.
+                Do not invent citations, quotations,
+                or statistics.
+            </blockquote>
+
+            <p>
+                Review the final draft against your
+                original notes and sources. Confirm
+                that the wording does not exaggerate
+                a finding or remove a qualification
+                that changes its meaning.
+            </p>
+
+            <h2>9. Understand the Limitations of AI Research</h2>
+
+            <p>
+                AI tools can make research easier to
+                organize, but several limitations
+                should be considered.
+            </p>
+
+            <h3>Information may be outdated</h3>
+
+            <p>
+                An AI assistant may not have access
+                to current information or may rely
+                on material that has changed.
+                Check official sources for current
+                prices, product features, regulations,
+                and other time-sensitive details.
+            </p>
+
+            <h3>Citations may be inaccurate</h3>
+
+            <p>
+                A reference included in an AI response
+                may have an incorrect title, author,
+                quotation, or source address.
+                Locate the original document and
+                verify the relevant information
+                before citing it.
+            </p>
+
+            <h3>Summaries can leave out important context</h3>
+
+            <p>
+                A short summary may omit exceptions,
+                limitations, or details that affect
+                how a finding should be interpreted.
+                Read the relevant original sections
+                when the exact meaning matters.
+            </p>
+
+            <h3>AI may repeat unsupported assumptions</h3>
+
+            <p>
+                A confident explanation is not proof
+                that the underlying claim is accurate.
+                Ask what evidence supports a statement
+                and check that evidence independently.
+            </p>
+
+            <h2>10. Protect Confidential Research Information</h2>
+
+            <p>
+                Research may involve unpublished work,
+                business documents, customer information,
+                personal records, or other confidential
+                material.
+            </p>
+
+            <p>
+                Before uploading a document or pasting
+                text into an AI service, check whether
+                you are permitted to share it and
+                understand the provider's data-handling
+                terms and privacy controls.
+            </p>
+
+            <p>
+                Avoid sharing passwords, authentication
+                codes, private customer records,
+                or confidential business information
+                unless you have appropriate authorization
+                and suitable protections.
+            </p>
+
+            <p>
+                When possible, remove unnecessary
+                identifying details and use non-sensitive
+                excerpts that are sufficient for the task.
+            </p>
+
+            <h2>Frequently Asked Questions</h2>
+
+            <h3>Can AI do research without human involvement?</h3>
+
+            <p>
+                AI can assist with organizing questions,
+                summarizing supplied information, and
+                suggesting research directions.
+                However, important findings still
+                require source checking, evaluation
+                of evidence, and human review.
+            </p>
+
+            <h3>Can I cite an AI assistant as a research source?</h3>
+
+            <p>
+                Citation requirements depend on the
+                assignment, publication, or institution.
+                In many research situations, it is
+                important to cite the original source
+                supporting a factual claim rather
+                than treating an AI-generated answer
+                as evidence. Follow the applicable
+                citation rules and disclose AI use
+                when required.
+            </p>
+
+            <h3>How many sources should I use?</h3>
+
+            <p>
+                There is no single number suitable
+                for every research question.
+                The required sources depend on the
+                scope, complexity, and purpose of
+                the research. Use enough relevant,
+                reliable evidence to address the
+                question and acknowledge important
+                limitations.
+            </p>
+
+            <h3>What should I do if two sources disagree?</h3>
+
+            <p>
+                Compare their publication dates,
+                methods, definitions, and supporting
+                evidence. Determine whether they
+                are addressing the same question.
+                If the disagreement cannot be
+                resolved, describe the uncertainty
+                rather than presenting one conclusion
+                as established without sufficient
+                evidence.
             </p>
 
             <h2>Final Thoughts</h2>
 
             <p>
-                AI can make research more efficient, but it works best as a
-                tool that supports careful research rather than replacing it.
+                AI can support research by helping
+                you define questions, organize notes,
+                explore search terms, and prepare
+                clear summaries. Its usefulness
+                depends on the quality of the
+                information you provide and the
+                care you take when checking results.
+            </p>
+
+            <p>
+                Start with a specific question,
+                find the original sources, record
+                the evidence, and verify important
+                claims before using them.
+                Treat AI as a research assistant,
+                not as a replacement for reliable
+                sources or critical thinking.
             </p>
 
         `
